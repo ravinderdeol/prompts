@@ -31,3 +31,19 @@
     - Condense the """Introduction""" paragraph using shorter sentences.
   
     - Write one short paragraph about my company ("""Historical Walkers"""). I offer """Walking Tours for $40""". This paragraph will go after the introduction paragraph. Use the AIDA (Attention, Interest, Desire, and Action) copywriting formula.
+
+1. <a href="https://youtu.be/CMUx3B_dnqI">How To Learn Anything Faster With ChatGPT</a>
+
+* Create a twenty-hour study plan for learning poker as a beginner. Tailor the study plan around the twenty-hour principle described by Josh Kaufman in The First Twenty Hours. And make sure I am learning the twenty percent that will give me eighty percent of the results.
+
+    - Output the study plan again but add resources I should use for each hour of learning. The resources should consist of books and videos.
+
+* You are my French teacher. Provide me with a short paragraph in French (CEFR Level A1). I will translate it to English. Tell me if it is correct or incorrect (if it is incorrect please explain why) in English.
+
+    - Provide me with another short paragraph in French (CEFR Level A2).
+
+* Explain """Pot Odds""" in poker like I am five with an example.
+
+* Output a list of twenty common French phrases with English translations.
+
+    - Convert the previous output into a CSV file. Column 1 for the French phrase. Column 2 for the English translations. Output inside a code block.
