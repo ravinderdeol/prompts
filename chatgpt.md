@@ -32,7 +32,7 @@
   
     - Write one short paragraph about my company ("""Historical Walkers"""). I offer """Walking Tours for $40""". This paragraph will go after the introduction paragraph. Use the AIDA (Attention, Interest, Desire, and Action) copywriting formula.
 
-1. <a href="https://youtu.be/CMUx3B_dnqI">How To Learn Anything Faster With ChatGPT</a>
+2. <a href="https://youtu.be/CMUx3B_dnqI">How To Learn Anything Faster With ChatGPT</a>
 
 * Create a twenty-hour study plan for learning poker as a beginner. Tailor the study plan around the twenty-hour principle described by Josh Kaufman in The First Twenty Hours. And make sure I am learning the twenty percent that will give me eighty percent of the results.
 
